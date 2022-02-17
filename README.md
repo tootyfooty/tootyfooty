@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tootyfooty
 - 👀 I’m interested in anything that is interesting :)
-- 🌱 I’m currently learning data-science & NLP
-- 💞️ I’m looking to collaborate on NLP projects
+- 🌱 I’m currently learning automation & ML
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 You can reach me @tootyfooty
 
 <!---
